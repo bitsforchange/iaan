@@ -17,14 +17,14 @@ Copyright 2020 Webpixels
 :root
 {
     /* color palette */
-    --blue: #008aff;/* ou #006ecc ? */
-    --blue-dark: #171347; /* ou #006ecc ? */
-    --blue-light: #eaecf3;
+    --blue: #7fbdb7; /* #008aff ou #006ecc */
+    --blue-dark: #1a2d3f; /* #171347 ou #006ecc */
+    --blue-light: #f7f9fc; /* #eaecf3 */
     --indigo: #6e00ff;
     --purple: #510fa8;
     --pink: #f074ad;
-    --red: #f25767;
-    --orange: #ffbe3d;
+    --red: #cf6c5c; /* #f25767 */
+    --orange: #e8aa58; /* #ffbe3d */
     --yellow: #ffc431;
     --green: #5cc9a7;
     --teal: #50b5ff;
