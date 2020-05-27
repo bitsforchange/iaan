@@ -1,7 +1,7 @@
 @charset 'UTF-8';
 /*
 
-Theme: Quick – Website UI Kit (FREE)
+Theme: Quick â€“ Website UI Kit (FREE)
 Version: 1.1.0
 Product Page: https://webpixels.io/themes/quick-website-ui-kit
 License: MIT
@@ -17,7 +17,7 @@ Copyright 2020 Webpixels
 :root
 {
     /* color palette */
-    --blue: #7fbdb7; /* #008aff ou #006ecc */
+    --blue: #3e81af; /* #008aff ou #006ecc */
     --blue-dark: #1a2d3f; /* #171347 ou #006ecc */
     --blue-light: #f7f9fc; /* #eaecf3 */
     --indigo: #6e00ff;
@@ -60,7 +60,6 @@ Copyright 2020 Webpixels
     --dark-light: #241e6f;
     --neutral: white;
     --neutral-dark: var(--gray-light);
-
     --breakpoint-xs: 0;
     --breakpoint-sm: 576px;
     --breakpoint-md: 768px;
