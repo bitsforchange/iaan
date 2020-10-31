@@ -1,0 +1,35 @@
+color: 			1638
+
+color: var		325
+color: rgba		135
+color: #		1050
+	---faltam	128
+
+
+color: #fff;			286 --> neutral OK
+color: #fff !important;		12  --> neutral OK
+color: #008aff !important;	5   --> primary OK
+color: #718096;			29  --> gray OK
+color: #718096 !important;	4   --> gray OK
+color: #e6e6e6;			8   --> gray-light OK
+color: #e6e6e6 !important;	9   --> gray-light OK
+color: #3b485e;			1
+color: #d0d9f6 !important;	1
+color: #fafbfe;			11
+color: #fafbfe !important;	2
+color: #fafafa;			5
+
+
+-----------------------------------------------------------
+fill:			65 --> OK
+
+fill: #			57
+fill: white		7   --> OK
+fill: none		1   --> OK
+
+-----------------------------------------------------------
+stroke:			34  --> OK
+
+stroke: #		32
+stroke: white		1   --> OK
+stroke: currentcolor	1   --> OK
